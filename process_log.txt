@@ -1,0 +1,42 @@
+=== Creo Automation Process Log (Fri Mar 20 09:38:43 2026) ===
+
+
+>> TOP MODEL: COVER-2FQ6H1060H_A01.stp
+STRUCTURE: cover-2fq6h1060h_a01.asm = 
+--------------------------------------------------------------------------------
+Component Part Name                           | dX         | dY         | dZ        
+cover-2fq6h1060h_a01.asm                      | 79.10      | 77.74      | 1.20      
+================================================================================
+
+>> TOP MODEL: blade_assy-1fq6h5000h-a01.stp
+STRUCTURE: blade_assy-1fq6h5000h-a01.asm = BLADE_ASSY-1FQ6H5000H-A00_ASM_1.ASM, BLADE_ASSY-1FQ6H5000H-A00_ASM_4.ASM, FQ6H-BLADE_S14_4_1.PRT, MOTOR_CASING-2FPJ74010H_2_1.PRT, SHAFT-2FMJX5010H_2_1.PRT
+--------------------------------------------------------------------------------
+Component Part Name                           | dX         | dY         | dZ        
+BLADE_ASSY-1FQ6H5000H-A00_ASM_1.ASM           | 62.99      | 6.00       | 62.97     
+BLADE_ASSY-1FQ6H5000H-A00_ASM_4.ASM           | 62.99      | 6.00       | 62.97     
+FQ6H-BLADE_S14_4_1.PRT                        | 62.99      | 5.20       | 62.97     
+MOTOR_CASING-2FPJ74010H_2_1.PRT               | 26.80      | 3.80       | 26.82     
+SHAFT-2FMJX5010H_2_1.PRT                      | 2.00       | 6.00       | 2.00      
+================================================================================
+
+>> TOP MODEL: dish-2fq6h3010h_r00.stp
+STRUCTURE: dish-2fq6h3010h_r00.asm = 
+--------------------------------------------------------------------------------
+Component Part Name                           | dX         | dY         | dZ        
+dish-2fq6h3010h_r00.asm                       | 79.11      | 80.00      | 1.21      
+================================================================================
+
+>> TOP MODEL: housing_assy-1fq6h6000h_r00_asm.stp
+STRUCTURE: housing_assy-1fq6h6000h_r00_asm.asm = BUSH-2FQ6H3052H_1_2_1_1_1_1_1_1.PRT, DISH-2FQ6H3010H_A01_3_1_1_1_1_1.PRT, FQ6H-PIN_2_2_1_1_1_1_1_1_1_1_1_.PRT, FQ6H-WALL1_2_3_1_1_1_1_1_1_1_1_.PRT, FQ6H-WALL2_3_3_1_1_1_1_1_1_1_1_.PRT, HOUSING_ASSY-1FQ6H6000H_A-47939.ASM, HOUSING_ASSY-1FQ6H6000H_A04_ASM.ASM, HOUSING_ASSY-1FQ6H6000H_R00_A_1.ASM, PAD_1_2_1_1_1_1_1_1_1_1_1_1.PRT
+--------------------------------------------------------------------------------
+Component Part Name                           | dX         | dY         | dZ        
+BUSH-2FQ6H3052H_1_2_1_1_1_1_1_1.PRT           | 6.92       | 5.50       | 6.92      
+DISH-2FQ6H3010H_A01_3_1_1_1_1_1.PRT           | 79.11      | 80.00      | 1.21      
+FQ6H-PIN_2_2_1_1_1_1_1_1_1_1_1_.PRT           | 3.13       | 3.13       | 7.00      
+FQ6H-WALL1_2_3_1_1_1_1_1_1_1_1_.PRT           | 17.93      | 81.03      | 8.10      
+FQ6H-WALL2_3_3_1_1_1_1_1_1_1_1_.PRT           | 24.44      | 80.34      | 9.09      
+HOUSING_ASSY-1FQ6H6000H_A-47939.ASM           | 81.29      | 9.09       | 80.00     
+HOUSING_ASSY-1FQ6H6000H_A04_ASM.ASM           | 81.29      | 9.09       | 80.00     
+HOUSING_ASSY-1FQ6H6000H_R00_A_1.ASM           | 81.29      | 9.09       | 80.00     
+PAD_1_2_1_1_1_1_1_1_1_1_1_1.PRT               | 28.50      | 1.40       | 28.52     
+================================================================================
