@@ -1,6 +1,9 @@
 venv/
 __pycache__/
+models/
+test_flow\temp_neu_M24248_fixed/
 *.log
+*.json
 *.xml
 *.stp
 *.png
