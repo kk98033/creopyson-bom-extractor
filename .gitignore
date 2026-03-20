@@ -1,4 +1,7 @@
-/venv
-
-.stp
-.png
+venv/
+__pycache__/
+*.log
+*.xml
+*.stp
+*.png
+*.txt
